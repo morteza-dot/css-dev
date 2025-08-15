@@ -1,1 +1,1 @@
-pracricing CSS/HTML
+practicing CSS/HTML based structures
